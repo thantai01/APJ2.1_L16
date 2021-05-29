@@ -14,10 +14,8 @@ public class DemoFile {
         DemoFile.WriteToFile(newFile);
         DemoFile.GetFileInformation(newFile);
 
-
 //        DemoFile.DeleteFile(newFile);
 //        DemoFile.getDirectoryPath();
-
 
 
     }
